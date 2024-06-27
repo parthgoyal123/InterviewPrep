@@ -9,31 +9,10 @@ namespace LLD_ParkingLot.ParkingStrategies
 {
     public class NearToEntranceParkingStrategy : ParkingStrategy
     {
-        public override ParkingSpot GetAvailableSpot(List<ParkingSpot> spotList, List<Gate> gates)
+        public override ParkingSpot GetAvailableSpot(List<ParkingSpot> spotList, Gate gate)
         {
-            ParkingSpot nearestSpot = null;
-            int minDistance = int.MaxValue;
-            foreach (ParkingSpot spot in spotList)
-            {
-                if (!spot.IsOccupied)
-                {
-                    foreach (var gate in gates)
-                    {
-                        int distance = CalculateDistance(spot.Coordinates, gate.GetCoordinates());
-                        if (distance < minDistance)
-                        {
-                            minDistance = distance;
-                            nearestSpot = spot;
-                        }
-                    }
-                }
-            }
-            return nearestSpot;
-        }
+            // Get the nearest parking spot to the entrance
 
-        private int CalculateDistance(KeyValuePair<int, int> coordinates, KeyValuePair<int, int> keyValuePair)
-        {
-            return Math.Abs(coordinates.Key - keyValuePair.Key) + Math.Abs(coordinates.Value - keyValuePair.Value);
         }
     }
 }

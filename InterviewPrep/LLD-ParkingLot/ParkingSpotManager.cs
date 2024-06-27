@@ -19,18 +19,6 @@ namespace LLD_ParkingLot
             this.parkingStrategy = parkingStrategy;
         }
 
-        public ParkingSpot GetSpot()
-        {
-            foreach (ParkingSpot spot in spotList)
-            {
-                if (!spot.IsOccupied)
-                {
-                    return spot;
-                }
-            }
-            return null;
-        }
-
         public void AddSpot(ParkingSpot spot)
         {
             spotList.Add(spot);
