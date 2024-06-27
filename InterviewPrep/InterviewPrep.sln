@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLD-TicTacToe", "LLD-TicTac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLD-ParkingLot", "LLD-ParkingLot\LLD-ParkingLot.csproj", "{4E691590-C857-453F-85FE-DFFDABCF3A37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLD-ElevatorDesign", "LLD-ElevatorDesign\LLD-ElevatorDesign.csproj", "{527C50AC-B6D2-4511-BE9C-BBED40EFA24B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4E691590-C857-453F-85FE-DFFDABCF3A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E691590-C857-453F-85FE-DFFDABCF3A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E691590-C857-453F-85FE-DFFDABCF3A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527C50AC-B6D2-4511-BE9C-BBED40EFA24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527C50AC-B6D2-4511-BE9C-BBED40EFA24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527C50AC-B6D2-4511-BE9C-BBED40EFA24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527C50AC-B6D2-4511-BE9C-BBED40EFA24B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
