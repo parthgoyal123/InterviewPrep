@@ -1,0 +1,15 @@
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\LLD-TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\LLD-TicTacToe.AssemblyInfoInputs.cache
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\LLD-TicTacToe.AssemblyInfo.cs
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\LLD-TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\LLD-TicTacToe.sourcelink.json
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\bin\Debug\net6.0\LLD-TicTacToe.exe
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\bin\Debug\net6.0\LLD-TicTacToe.deps.json
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\bin\Debug\net6.0\LLD-TicTacToe.runtimeconfig.json
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\bin\Debug\net6.0\LLD-TicTacToe.dll
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\bin\Debug\net6.0\LLD-TicTacToe.pdb
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\LLD-TicTacToe.dll
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\refint\LLD-TicTacToe.dll
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\LLD-TicTacToe.pdb
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\LLD-TicTacToe.genruntimeconfig.cache
+C:\Users\parthgoyal\source\repos\InterviewPrep\InterviewPrep\LLD-TicTacToe\obj\Debug\net6.0\ref\LLD-TicTacToe.dll
